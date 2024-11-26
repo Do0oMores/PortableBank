@@ -1,0 +1,6 @@
+name: PortableBank
+version: '1.0-SNAPSHOT'
+main: top.mores.portableBank.PortableBank
+api-version: '1.18'
+authors: [ Mores ]
+description: 随身银行
